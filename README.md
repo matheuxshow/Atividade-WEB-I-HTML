@@ -13,4 +13,8 @@ Repositório das atividades (HTML) de WEB I :)
  - atividade 10 [link para o primeiro arquivo do exercício 10: clique aqui](Atividade10.html)
  - atividade 11 [link para o primeiro arquivo do exercício 11: clique aqui](Atividade11.html)
  - atividade 11 [link para o primeiro arquivo do exercício 12: clique aqui](Atividade12.html)
+ - atividade 11 [link para o primeiro arquivo do exercício 13: clique aqui](Atividade13.html)
+ - atividade 11 [link para o primeiro arquivo do exercício 14: clique aqui](Atividade14.html)
+ 
+ 
  
